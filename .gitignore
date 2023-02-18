@@ -15,3 +15,5 @@ flutter_export_environment.sh
 *.ipr
 *.iws
 .idea/
+.fvm/
+android/.idea
